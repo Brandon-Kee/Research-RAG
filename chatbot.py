@@ -122,7 +122,6 @@ with gr.Blocks(title="Document Knowledge Assistant", css=custom_css) as demo:
     </div>
     """)
 
-
     # Event handlers
     def respond(message, chat_history):
         bot_message = ""
