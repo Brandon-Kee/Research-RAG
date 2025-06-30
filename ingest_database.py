@@ -35,6 +35,7 @@ text_splitter = RecursiveCharacterTextSplitter(
     is_separator_regex=False,
 )
 
+
 # creating the chunks
 chunks = text_splitter.split_documents(raw_documents)
 
