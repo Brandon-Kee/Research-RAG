@@ -118,7 +118,7 @@ with gr.Blocks(title="Document Knowledge Assistant", css=custom_css) as demo:
     # Footer
     gr.Markdown("""
     <div class="footer">
-    Powered by OpenAI, LangChain, and ChromaDB | Documents processed using text-embedding-3-large
+    Powered by OpenAI, LangChain, and ChromaDB
     </div>
     """)
 
