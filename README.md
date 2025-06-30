@@ -1,1 +1,1 @@
-# AG Chatbot Research Assistant
+# RAG Chatbot Research Assistant
