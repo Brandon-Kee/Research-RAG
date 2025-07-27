@@ -54,3 +54,7 @@ Retrieval-Augmented Generation (RAG) powered chatbot that allows researchers and
 3. **Run the app**
    ```bash
    python chatbot.py
+4. **Start Researching!**
+   - Ask any questions relevant to your uploaded documents.
+---
+## Demo
