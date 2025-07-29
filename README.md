@@ -58,3 +58,7 @@ Retrieval-Augmented Generation (RAG) powered chatbot that allows researchers and
    - Ask any questions relevant to your uploaded documents.
 ---
 ## Demo
+
+
+https://github.com/user-attachments/assets/ffb211a4-b95a-4d1f-83b6-e05bf707f605
+
